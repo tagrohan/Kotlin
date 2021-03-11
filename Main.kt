@@ -2,7 +2,7 @@ fun main() {
     for (i in 1..10) {
         println(i)
 
-        println(testing(2,1))
+        print("yeh hai dev branch")
     }
 }
 
